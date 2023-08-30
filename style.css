@@ -1,13 +1,19 @@
+* {
+  margin: 0;
+}
 header {
   background-color: red;
+  height: 50px;
 }
 
-Main {
+main {
   background-color: grey;
+  height: 100vh;
 }
 
 footer {
   background: yellow;
+  height: 50px;
 }
 
 .first {
